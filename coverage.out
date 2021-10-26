@@ -1,0 +1,8 @@
+mode: set
+gonar/gonar.go:3.25,4.12 1 1
+gonar/gonar.go:16.5,16.22 1 0
+gonar/gonar.go:5.16,6.26 1 1
+gonar/gonar.go:7.17,8.22 1 1
+gonar/gonar.go:9.17,10.23 1 1
+gonar/gonar.go:11.18,12.21 1 1
+gonar/gonar.go:13.19,14.22 1 1
