@@ -1,0 +1,8 @@
+{"Time":"2021-10-26T14:46:45.9984485+03:00","Action":"run","Package":"gonar","Test":"TestSize"}
+{"Time":"2021-10-26T14:46:45.9996704+03:00","Action":"output","Package":"gonar","Test":"TestSize","Output":"=== RUN   TestSize\n"}
+{"Time":"2021-10-26T14:46:46.0001731+03:00","Action":"output","Package":"gonar","Test":"TestSize","Output":"    gonar_test.go:22: #4: Size(999)=huge; want huge1\n"}
+{"Time":"2021-10-26T14:46:46.0006364+03:00","Action":"output","Package":"gonar","Test":"TestSize","Output":"--- FAIL: TestSize (0.00s)\n"}
+{"Time":"2021-10-26T14:46:46.0011222+03:00","Action":"fail","Package":"gonar","Test":"TestSize","Elapsed":0}
+{"Time":"2021-10-26T14:46:46.001642+03:00","Action":"output","Package":"gonar","Output":"FAIL\n"}
+{"Time":"2021-10-26T14:46:46.0024249+03:00","Action":"output","Package":"gonar","Output":"FAIL\tgonar\t0.015s\n"}
+{"Time":"2021-10-26T14:46:46.0033396+03:00","Action":"fail","Package":"gonar","Elapsed":0.016}
